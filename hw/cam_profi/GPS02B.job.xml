@@ -22,23 +22,23 @@
    </panels>
    <board-locations>
       <board-location side="Top" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
-         <location units="Millimeters" x="166.3428026320749" y="274.33473473689935" z="15.7" rotation="-89.10524503908474"/>
+         <location units="Millimeters" x="166.33870840226774" y="274.42893476991594" z="15.7" rotation="-89.09741668376132"/>
          <placed class="java.util.HashMap"/>
       </board-location>
       <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
-         <location units="Millimeters" x="206.46990918442037" y="274.9614274340907" z="15.7" rotation="-89.10524503908474"/>
+         <location units="Millimeters" x="206.4727727951433" y="275.27565341926294" z="15.7" rotation="-89.0915657736522"/>
          <placed class="java.util.HashMap"/>
       </board-location>
       <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
-         <location units="Millimeters" x="246.59701573676585" y="275.588120131282" z="15.7" rotation="-89.10524503908474"/>
+         <location units="Millimeters" x="246.5927495071022" y="275.69328533188093" z="15.7" rotation="-89.09741668376132"/>
          <placed class="java.util.HashMap"/>
       </board-location>
       <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
-         <location units="Millimeters" x="286.7241222891113" y="276.2148128284733" z="15.7" rotation="-89.10524503908474"/>
+         <location units="Millimeters" x="286.71977005951936" y="276.3254606128635" z="15.7" rotation="-89.09741668376132"/>
          <placed class="java.util.HashMap"/>
       </board-location>
       <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
-         <location units="Millimeters" x="326.8512288414568" y="276.8415055256647" z="15.7" rotation="-89.10524503908474"/>
+         <location units="Millimeters" x="326.8467906119367" y="276.957635893846" z="15.7" rotation="-89.09741668376132"/>
          <placed class="java.util.HashMap"/>
       </board-location>
    </board-locations>
