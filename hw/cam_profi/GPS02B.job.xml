@@ -1,0 +1,45 @@
+<openpnp-job>
+   <panels>
+      <panel>
+         <id>Panel1</id>
+         <columns>1</columns>
+         <rows>5</rows>
+         <x-gap value="0.0" units="Millimeters"/>
+         <y-gap value="0.0" units="Millimeters"/>
+         <part-id>MountingHole_3mm-M3</part-id>
+         <check-fids>true</check-fids>
+         <fiducials>
+            <placement version="1.4" id="PanelFid1" side="Top" part-id="MountingHole_3mm-M3" type="Fiducial" enabled="true">
+               <location units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="-89.1006282341602"/>
+               <error-handling>Alert</error-handling>
+            </placement>
+            <placement version="1.4" id="PanelFid2" side="Top" part-id="MountingHole_3mm-M3" type="Fiducial" enabled="true">
+               <location units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="-89.1006282341602"/>
+               <error-handling>Alert</error-handling>
+            </placement>
+         </fiducials>
+      </panel>
+   </panels>
+   <board-locations>
+      <board-location side="Top" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
+         <location units="Millimeters" x="166.3428026320749" y="274.33473473689935" z="15.7" rotation="-89.10524503908474"/>
+         <placed class="java.util.HashMap"/>
+      </board-location>
+      <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
+         <location units="Millimeters" x="206.46990918442037" y="274.9614274340907" z="15.7" rotation="-89.10524503908474"/>
+         <placed class="java.util.HashMap"/>
+      </board-location>
+      <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
+         <location units="Millimeters" x="246.59701573676585" y="275.588120131282" z="15.7" rotation="-89.10524503908474"/>
+         <placed class="java.util.HashMap"/>
+      </board-location>
+      <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
+         <location units="Millimeters" x="286.7241222891113" y="276.2148128284733" z="15.7" rotation="-89.10524503908474"/>
+         <placed class="java.util.HashMap"/>
+      </board-location>
+      <board-location side="Bottom" board-file="GPS02B.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
+         <location units="Millimeters" x="326.8512288414568" y="276.8415055256647" z="15.7" rotation="-89.10524503908474"/>
+         <placed class="java.util.HashMap"/>
+      </board-location>
+   </board-locations>
+</openpnp-job>
