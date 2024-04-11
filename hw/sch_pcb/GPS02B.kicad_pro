@@ -470,7 +470,7 @@
       "vmrl": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "module.kicad_wks"
+    "page_layout_descr_file": "../../doc/assets/templates/KiCAD/page_layout.kicad_wks"
   },
   "schematic": {
     "drawing": {
