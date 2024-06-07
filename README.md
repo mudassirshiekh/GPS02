@@ -1,5 +1,5 @@
 # GPS02B - MLAB Module for RTK Navigation
-
+# Mudassir Alam
 ![GPS02B](doc/img/GPS02A_top.jpg)
 
 GPS02B is an accurate GNSS receiver module designed in the form of an MLAB module. This innovative design brings numerous advantages to the table, making it a choice for [RTK (Real-Time Kinematics)](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning) navigation experiments. The GPS02B module is based on the uBlox receiver. There are multiple uBlox module types
